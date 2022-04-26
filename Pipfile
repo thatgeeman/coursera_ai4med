@@ -8,8 +8,10 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
-tensorflow = "*"
+tensorflow-gpu = "*"
 keras = "*"
+opencv-python = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
