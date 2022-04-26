@@ -1,0 +1,5 @@
+*.png
+*.hdf5
+*.h5
+*.tar.gz
+*/.ipynb_checkpoints/
